@@ -1,0 +1,5 @@
+# LINUX RESOURCES
+
+## killing ports
+
+- `sudo kill -9`sudo lsof -t -i:9001``
